@@ -3,5 +3,6 @@ public class Main {
         String p = "Privet";
         System.out.println(p);
         System.out.println(p);
+        System.out.println(p);
     }
 }
